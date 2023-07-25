@@ -13,3 +13,5 @@
 ### [awesome microservices](https://github.com/mfornos/awesome-microservices#go)
 
 ### [software theory analysis](https://ssup2.github.io/categories/theory_analysis/)
+
+### [react egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
