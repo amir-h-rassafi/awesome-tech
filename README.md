@@ -11,3 +11,5 @@
 ### [react admin](https://github.com/marmelab/react-admin)
 
 ### [awesome microservices](https://github.com/mfornos/awesome-microservices#go)
+
+### [software theory analysis](https://ssup2.github.io/categories/theory_analysis/)
