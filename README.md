@@ -15,3 +15,5 @@
 ### [software theory analysis](https://ssup2.github.io/categories/theory_analysis/)
 
 ### [react egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
+### [kubebuilder](https://book.kubebuilder.io/)
