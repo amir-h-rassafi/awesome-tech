@@ -17,3 +17,5 @@
 ### [react egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 ### [kubebuilder](https://book.kubebuilder.io/)
+
+### [qdrant](https://github.com/qdrant/qdrant)
