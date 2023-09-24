@@ -19,3 +19,5 @@
 ### [kubebuilder](https://book.kubebuilder.io/)
 
 ### [qdrant](https://github.com/qdrant/qdrant)
+
+### [build your own](https://github.com/codecrafters-io/build-your-own-x)
