@@ -27,3 +27,5 @@
 ### [db tutorial](https://cstack.github.io/db_tutorial/)
 
 ### [scalene(python profiler)](https://github.com/plasma-umass/scalene)
+
+### [path to senior engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
