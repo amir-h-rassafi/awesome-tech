@@ -29,3 +29,6 @@
 ### [scalene(python profiler)](https://github.com/plasma-umass/scalene)
 
 ### [path to senior engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
+
+### [fastapi best practices](https://github.com/zhanymkanov/fastapi-best-practices?tab=readme-ov-file#chain-dependencies)
