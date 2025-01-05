@@ -34,3 +34,5 @@
 ### [fastapi best practices](https://github.com/zhanymkanov/fastapi-best-practices?tab=readme-ov-file#chain-dependencies)
 
 ### [k8s external secrets](https://external-secrets.io/latest/)
+
+### [DE handbook](https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file)
