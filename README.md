@@ -36,3 +36,5 @@
 ### [k8s external secrets](https://external-secrets.io/latest/)
 
 ### [DE handbook](https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file)
+
+### [OCR](https://tesseract-ocr.github.io/tessdoc/)
